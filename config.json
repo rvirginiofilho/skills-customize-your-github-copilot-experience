@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "search-and-sort-performance",
+      "title": "Search and Sort Performance",
+      "description": "Implement and compare search and sorting algorithms to analyze correctness and time complexity.",
+      "path": "assignments/search-and-sort-performance",
+      "dueDate": "2026-08-12",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
